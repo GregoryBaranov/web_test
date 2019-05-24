@@ -5,3 +5,13 @@ body
     background-image: url(../images/back.jpg)
     
 }*/
+
+.container
+{
+    background-color: blue;
+}
+
+body
+{
+    background: url(../images/back.jpg);
+}
